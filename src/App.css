@@ -3,38 +3,22 @@ img {
   width: 80px;
 }
 
-header {
-  text-align: center;
+.header-margin {
   margin-top: 50px;
 }
-.container-main {
-  width: 670px;
-  background: #fff;
-  margin: 0 auto;
-  border-radius: 4px;
-  padding: 30px;
-  box-shadow: 0 0 18px -5px rgba(0,0,0,.20);
+
+.done{
+  color: green;
 }
 
-input {
-  padding: 15px;
-  border: 2px solid transparent;
-  width: 100%;
-  border-radius: 4px;
-  box-shadow: 0 0 18px -5px rgba(0,0,0,.20);
-  font-size: 22px;
-  transition: all .2s;
+
+.noData{
+  color: red;
+  font-size: 16px;
+  font-weight: 700;
+  text-align: center;
 }
 
-.btn-submit {
-  background: #09d3ac;
-  margin-top: 10px;
-  cursor: pointer;
-  width: 40%;
-}
-
-.addButton {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.danger {
+  border-color: red;
 }
