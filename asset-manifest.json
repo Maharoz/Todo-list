@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Todo-list/static/css/main.333c5a72.chunk.css",
+    "main.js": "/Todo-list/static/js/main.6bfbd49e.chunk.js",
+    "main.js.map": "/Todo-list/static/js/main.6bfbd49e.chunk.js.map",
+    "runtime-main.js": "/Todo-list/static/js/runtime-main.5d5d09ef.js",
+    "runtime-main.js.map": "/Todo-list/static/js/runtime-main.5d5d09ef.js.map",
+    "static/css/2.4b841a5a.chunk.css": "/Todo-list/static/css/2.4b841a5a.chunk.css",
+    "static/js/2.b00e9d4a.chunk.js": "/Todo-list/static/js/2.b00e9d4a.chunk.js",
+    "static/js/2.b00e9d4a.chunk.js.map": "/Todo-list/static/js/2.b00e9d4a.chunk.js.map",
+    "index.html": "/Todo-list/index.html",
+    "precache-manifest.316b4b5b9f82f696df87f9f5957f6617.js": "/Todo-list/precache-manifest.316b4b5b9f82f696df87f9f5957f6617.js",
+    "service-worker.js": "/Todo-list/service-worker.js",
+    "static/css/2.4b841a5a.chunk.css.map": "/Todo-list/static/css/2.4b841a5a.chunk.css.map",
+    "static/css/main.333c5a72.chunk.css.map": "/Todo-list/static/css/main.333c5a72.chunk.css.map",
+    "static/media/font-awesome.css": "/Todo-list/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo.svg": "/Todo-list/static/media/logo.25bf045c.svg"
+  }
+}
